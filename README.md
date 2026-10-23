@@ -2,9 +2,7 @@
 <p align="center">AI-driven developer · random projects · Roblox & Wizard101 tooling</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-nolifepops-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: nolifepops">
-  <img src="https://komarev.com/ghpvc/?username=LostMorality&style=for-the-badge&color=blueviolet&label=Profile+views" alt="Profile views">
-</p>
+  <img src="https://img.shields.io/badge/Discord-nolifepops-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: nolifepops"></p>
 
 ---
 
@@ -17,11 +15,11 @@
 
 ### Currently working on
 
-| | |
-|---|---|
-| 🟥 **Roblox** | Luau scripts, UI, and tools |
-| 🧙 **Wizard101** | Utilities and automation |
-| 🧩 **Everything else** | Whatever I feel like building that week |
+<table>
+  <tr><td>🟥 <b>Roblox</b></td><td>Luau scripts, UI, and tools</td></tr>
+  <tr><td>🧙 <b>Wizard101</b></td><td>Utilities and automation</td></tr>
+  <tr><td>🧩 <b>Everything else</b></td><td>Whatever I feel like building in general</td></tr>
+</table>
 
 ### Tools & languages
 
