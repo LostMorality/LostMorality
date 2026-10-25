@@ -10,13 +10,14 @@
 
 - 🤖 I use AI for pretty much everything: writing code, debugging, research, and automating the boring parts
 - 🧪 I build whatever catches my interest, so expect a lot of random projects
-- 🎮 Right now I'm mainly focused on **Roblox** and **Wizard101**
+- 🎮 Right now I'm mainly focused on **Roblox**, **Wizard101** and **Discord**
 - 💬 Discord: **nolifepops**
 
 ### Currently working on
 
 <table>
   <tr><td>🟥 <b>Roblox</b></td><td>Luau scripts, UI, and tools</td></tr>
+  <tr><td>👾 <b>Discord</b></td><td>scripts, UI, tools and more</td></tr>
   <tr><td>🧙 <b>Wizard101</b></td><td>Utilities and automation</td></tr>
   <tr><td>🧩 <b>Everything else</b></td><td>Whatever I feel like building in general</td></tr>
 </table>
