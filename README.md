@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Pops 👋</h1>
-<p align="center">AI-driven developer · random projects · Roblox & Wizard101 tooling</p>
+<p align="center">AI-driven developer · random projects · Roblox, Wizard101 & Discord tooling</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-nolifepops-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: nolifepops"></p>
