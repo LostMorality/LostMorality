@@ -1174,10 +1174,6 @@ def apply_github(d, yes):
     if len(bio) > 160:
         raise SystemExit(f"bio is {len(bio)} characters. GitHub allows 160.")
     lint(bio, "bio")
-    if gh("api", f"users/{LOGIN}", "--jq", ".bio") != bio:
-        print(f"bio -> {bio}")
-        if yes:
-            gh("api", "-X", "PATCH", "user", "-f", f"bio={bio}")
     for repo, text in settings["descriptions"].items():
         if len(text) > 350:
             raise SystemExit(f"{repo} description is {len(text)} characters. GitHub allows 350.")
@@ -1186,6 +1182,10 @@ def apply_github(d, yes):
             print(f"{repo} -> {text}")
             if yes:
                 gh("repo", "edit", f"{LOGIN}/{repo}", "--description", text)
+    if gh("api", f"users/{LOGIN}", "--jq", ".bio") != bio:
+        print(f"bio -> {bio}")
+        if yes and subprocess.run(["gh", "api", "-X", "PATCH", "user", "-f", f"bio={bio}"], capture_output=True).returncode:
+            raise SystemExit("Repo descriptions are done, but GitHub refused the bio. Run this once, then try again: gh auth refresh -h github.com -s user")
     print("applied" if yes else "nothing changed. Add --yes to apply what's listed.")
 
 
