@@ -1,0 +1,288 @@
+page = [
+  "hero",
+  "keys-a + keys-b",
+  "label-main",
+  "cordmuffin",
+  "rscripts",
+  "label-rest",
+  "vortex",
+  "seanime 76%",
+  "about",
+  "rules",
+  "stock",
+  "timecard",
+  "closer",
+]
+
+[shop]
+owner = "Pops"
+login = "LostMorality"
+discord = "nolifepops"
+discord_id = "221807880053981184"
+avatar = "avatar.webp"
+footer = "Discord: `{discord}`"
+skip_in_stats = ["LostMorality", "Texmancer"]
+
+[github]
+bio = "Goes by {owner}. Mostly Roblox and Discord, plus random projects, built with a lot of AI. Put it back where you found it. (discord: {discord})"
+
+[github.descriptions]
+cordmuffin = "Custom Equicord userplugins, plus Muffinshelf, a store for plugins Equicord doesn't ship. There's a side installer if you want custom patching: it builds Equicord with whatever you drop in. No admin, and removing it puts Discord back to normal. Client mods break Discord's terms, and the README says so."
+vortex-free-collections = "Unofficial, reversible patch for Vortex 2.9.1. Hands-off collection downloads, Update All and parallel downloads for free Nexus accounts. Uninstall restores the originals. May be against Nexus Mods' terms, and the README says so."
+
+[labels]
+work_order = "Work order"
+goes_back = "Goes back?"
+get_it = "Get it"
+warning = "Warning"
+stars = "Stars"
+
+[fonts]
+typewriter = "CourierPrime-Regular.ttf"
+typewriter_bold = "CourierPrime-Bold.ttf"
+stencil = "BigShouldersStencil-Black.ttf"
+handwriting = "ReenieBeanie.ttf"
+
+[theme.dark]
+board = "#23252E"
+holes = "#0E0F14"
+lilac = "#4A4266"
+paper = "#D9DAE4"
+ink = "#1B1C24"
+scrawl_board = "#B9A8F0"
+scrawl_paper = "#5B45A0"
+on_board = "#E6E7EF"
+dim = "#A9ABBA"
+loaner = "#C9BFE6"
+banner = "#2B2E38"
+banner_edge = "#4B4F5E"
+edge = ""
+shadow = 0.6
+
+[theme.light]
+board = "#C9CCD6"
+holes = "#6A6D80"
+lilac = "#9B90BE"
+paper = "#F1F1F6"
+ink = "#1B1C24"
+scrawl_board = "#5B45A0"
+scrawl_paper = "#5B45A0"
+on_board = "#1B1C24"
+dim = "#43455A"
+loaner = "#E2DCF3"
+banner = "#15141B"
+banner_edge = "#15141B"
+edge = "#B9BBC8"
+shadow = 0.28
+
+[colors]
+brand_blue = "#0F6FB8"
+bright_blue = "#2FA8F5"
+white = "#FFFFFF"
+pale = "#ECECF2"
+label_paper = "#F1F1F6"
+note_paper = "#ECE7DB"
+dark_ink = "#1B1C24"
+pencil = "#5B45A0"
+chalk = "#B9A8F0"
+amber = "#FFB85C"
+amber_soft = "#FFD9A0"
+door = "#17181F"
+door_panel = "#262833"
+tape = "#15141B"
+eyelet = "#0E0F14"
+hazard_black = "#0B0B10"
+face_ring = "#14151B"
+steel = "#C6CBD6"
+steel_dark = "#8C90A3"
+steel_top = "#DDE0E8"
+steel_bottom = "#9DA1B2"
+steel_shine = "#E4E6ED"
+steel_mid = "#B4B8C6"
+steel_shade = "#7C8093"
+blade_shine = "#E8EAF0"
+blade_mid = "#AEB2C0"
+blade_edge = "#6F7385"
+pin = "#7E8296"
+cabinet = "#3A3C48"
+cabinet_edge = "#5A5E70"
+handle_dark = "#2A2C37"
+handle_ridge = "#0A4F88"
+roller = "#D9D3EE"
+roller_shade = "#A69BCB"
+
+[cards.hero]
+style = "hero"
+name = "{owner}"
+aka = "Also answers to {login}."
+lead = "Mostly Roblox and Discord."
+sub = "The rest is random projects."
+badge = "Owner on site."
+tape = [
+  "Mind the cords.",
+  "Check the version first.",
+  "Nobody asked. I fixed it anyway.",
+  "Read the error. Read it again.",
+]
+wall = [
+  ["Roblox", "hammer"],
+  ["Discord", "screwdriver"],
+  ["Random", "roller"],
+  ["Missing", "wrench"],
+]
+corner_note = "I know it was you."
+late_note = { dark = "It's late. Go to bed.", light = "Go outside. One of us should." }
+
+[cards.keys-a]
+style = "key"
+link = "https://discord.com/users/{discord_id}"
+small = "Discord"
+big = "{discord}"
+scrawl = "Knock first."
+
+[cards.keys-b]
+style = "key"
+link = "https://github.com/{login}?tab=repositories"
+small = "Repos"
+big = "{login}"
+scrawl = "Take what you need."
+
+[cards.label-main]
+style = "shelf_label"
+words = "Main bench: Roblox and Discord"
+
+[cards.label-rest]
+style = "shelf_label"
+words = "Everything else: random projects"
+
+[cards.cordmuffin]
+style = "work_order"
+repo = "cordmuffin"
+name_size = 60
+note = "Yes, that's the name."
+smudge = true
+fits = ["Fits: Discord", "Made of: TypeScript"]
+rows = [
+  ["Came in with", "Wants plugins Equicord doesn't ship. Nobody's making them."],
+  ["What I did", "Mostly custom userplugins, plus Muffinshelf, a store for the ones Equicord doesn't ship. On the side, an optional installer builds Equicord with whichever ones you drop in its folder."],
+]
+back = "Yes."
+back_rows = [
+  ["Install fails", "Discord is left as it was."],
+  ["You want it gone", "Remove it. Discord goes back to normal."],
+  ["It asks for admin", "It doesn't."],
+]
+warning = "Client mods like Equicord break Discord's terms. Some plugins carry their own warning. The README says so."
+sticker_width = 730
+sticker_tilt = 0.8
+
+[cards.vortex]
+style = "work_order"
+repo = "vortex-free-collections"
+name_size = 50
+stamp = "Unofficial"
+fits = ["Fits: Vortex 2.9.1", "Made of: TypeScript"]
+under_fits = "Read the number before you ask."
+rows = [
+  ["Came in with", "Free Nexus account. Click, wait, click, wait. I can't watch that."],
+  ["What I did", "Built a reversible patch. Hands-off collection downloads, Update All, parallel downloads."],
+]
+back = "Yes. Uninstall and the original files come back exactly."
+warning = "May be against Nexus Mods' terms. Could put your account at risk. The README says so."
+sticker_width = 590
+sticker_tilt = -0.9
+side_note = ["Don't go", "bugging the", "Vortex people", "about it."]
+side_size = 31
+side_step = 29
+
+[cards.rscripts]
+style = "drawer"
+repo = "RScripts"
+sub = "Junk drawer"
+lines = [
+  ["Label says \"random roblox", "plain"],
+  ["script projects\".", "plain"],
+  ["Contents: Roblox scripts.", "bold"],
+  ["{lua_RScripts} of Lua.", "plain"],
+  ["Goes back? Nothing to install.", "bold"],
+]
+scrawl = ["It says random", "on the box."]
+
+[cards.seanime]
+style = "loaner"
+repo = "seanime"
+stamp = "Loaner"
+text = "Fork of an open-source media server for anime and manga. Someone else built it."
+back = "Not my call. It's a fork."
+scrawl = "Go thank them. They earned it."
+
+[cards.about]
+style = "manual"
+title = "Owner's manual"
+model = "Model: {owner}. In service on GitHub since November 2024."
+question = "Has a life?"
+answers = [["Yes", false], ["No", true]]
+unit_title = "About this unit"
+unit_text = "Works mostly on Roblox and Discord. Everything else is random projects. When something bugs him, he builds something for it, then hands it out."
+unit_notes = ["Not your dad.", "Back that up first."]
+tools_title = "Power tools"
+tools_intro = "Uses AI for pretty much everything:"
+tools = [
+  [["Writing code", true], ["Debugging", true]],
+  [["Research", true], ["Automating", true]],
+  [["Lying about it", false]],
+]
+tools_outro = "Now you don't have to ask."
+tools_notes = ["If the code breaks,", "that's still on me."]
+issues_title = "Known issues"
+issues_head = ["Issue", "Status"]
+issues = [
+  ["Seen as a jerk", "Won't fix"],
+  ["Seen as an outcast", "Duplicate"],
+  ["Bedside manner", "Not covered"],
+  ["Thank yous", "Can't reproduce"],
+]
+
+[cards.rules]
+style = "rules"
+title = ["Shop", "rules"]
+rows = [
+  ["1. Put it back where you found it.", "The tags say which of mine undo cleanly."],
+  ["2. Want to borrow something?", "Check the license. Then fork it."],
+]
+scrawl = "3. Hello is not a bug report."
+
+[cards.stock]
+style = "stock"
+title = "Stock on hand"
+note = "Forks not counted. Not my stock."
+bins = [
+  { name = "TypeScript", languages = ["TypeScript"], note = ["Checks your", "work."] },
+  { name = "Lua and Luau", languages = ["Lua", "Luau"], note = ["Too much time", "on Roblox."] },
+  { name = "Go", languages = ["Go"], note = ["Stays out of", "the way."] },
+  { name = "CSS", languages = ["CSS"], note = ["Makes it look", "less bad."] },
+]
+
+[cards.timecard]
+style = "timecard"
+link = "https://github.com/{login}?tab=repositories"
+title = "Time card"
+name = "Name: {owner}"
+department = "Department: me"
+columns = [
+  ["Contributions", "{contributions}", "Overtime: all of it."],
+  ["Public repos", "{repos}", "Some of them loaners."],
+  ["Stars", "{stars_total}", "Wasn't counting."],
+]
+legend = "Bigger hole, busier day."
+filled = "Last filled in: {date}"
+machine = "Filled in daily by a machine. I don't do paperwork."
+
+[cards.closer]
+style = "closer"
+sign = "Closed"
+scrawl = ["Knock loud.", "I'm in the back."]
+note = "On Discord: {discord}. Bug reports go in my repos. For seanime, ask the people who built it."
+note_bold = "Tell me what broke and what you tried."
+lit = "Forgot to turn that off."
+food = "Did you eat?"

@@ -1,39 +1,31 @@
-<h1 align="center">Hey, I'm Pops 👋</h1>
-<p align="center">AI-driven developer · random projects · Roblox, Wizard101 & Discord tooling</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-nolifepops-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: nolifepops"></p>
+<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Pops Also answers to LostMorality. Mostly Roblox and Discord. The rest is random projects. Owner on site. Label tape: Mind the cords. Check the version first. Nobody asked. I fixed it anyway. Read the error. Read it again. Tool wall: Roblox, Discord, Random. The wrench is missing. I know it was you. It&#x27;s late. Go to bed."></picture></a>
 
----
+<a href="https://discord.com/users/221807880053981184"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/keys-a-dark.svg"><img src="assets/keys-a-light.svg" width="49.8%" alt="Discord: nolifepops. Knock first."></picture></a><a href="https://github.com/LostMorality?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/keys-b-dark.svg"><img src="assets/keys-b-light.svg" width="49.8%" alt="Repos: LostMorality. Take what you need."></picture></a>
 
-### About me
+<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-main-dark.svg"><img src="assets/label-main-light.svg" width="100%" alt="Main bench: Roblox and Discord."></picture></a>
 
-- 🤖 I use AI for pretty much everything: writing code, debugging, research, and automating the boring parts
-- 🧪 I build whatever catches my interest, so expect a lot of random projects
-- 🎮 Right now I'm mainly focused on **Roblox**, **Wizard101** and **Discord**
-- 💬 Discord: **nolifepops**
+<a href="https://github.com/LostMorality/cordmuffin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cordmuffin-dark.svg"><img src="assets/cordmuffin-light.svg" width="100%" alt="Work order: cordmuffin. Yes, that&#x27;s the name. Fits Discord. Made of TypeScript. Stars: 4. Came in with: Wants plugins Equicord doesn&#x27;t ship. Nobody&#x27;s making them. What I did: Mostly custom userplugins, plus Muffinshelf, a store for the ones Equicord doesn&#x27;t ship. On the side, an optional installer builds Equicord with whichever ones you drop in its folder. Goes back? Yes. Install fails: Discord is left as it was. You want it gone: Remove it. Discord goes back to normal. It asks for admin: It doesn&#x27;t. Get it: github.com/LostMorality/cordmuffin. Warning: Client mods like Equicord break Discord&#x27;s terms. Some plugins carry their own warning. The README says so."></picture></a>
 
-### Currently working on
+<a href="https://github.com/LostMorality/RScripts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rscripts-dark.svg"><img src="assets/rscripts-light.svg" width="100%" alt="RScripts. Junk drawer. Label says &quot;random roblox script projects&quot;. Contents: Roblox scripts. 2.9 MB of Lua. Goes back? Nothing to install. It says random on the box. Get it: github.com/LostMorality/RScripts."></picture></a>
 
-<table>
-  <tr><td>🟥 <b>Roblox</b></td><td>Luau scripts, UI, and tools</td></tr>
-  <tr><td>👾 <b>Discord</b></td><td>scripts, UI, tools and more</td></tr>
-  <tr><td>🧙 <b>Wizard101</b></td><td>Utilities and automation</td></tr>
-  <tr><td>🧩 <b>Everything else</b></td><td>Whatever I feel like building in general</td></tr>
-</table>
+<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-rest-dark.svg"><img src="assets/label-rest-light.svg" width="100%" alt="Everything else: random projects."></picture></a>
 
-### Tools & languages
+<a href="https://github.com/LostMorality/vortex-free-collections"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/vortex-dark.svg"><img src="assets/vortex-light.svg" width="100%" alt="Work order: vortex-free-collections. Unofficial. Fits Vortex 2.9.1. Made of TypeScript. Read the number before you ask. Came in with: Free Nexus account. Click, wait, click, wait. I can&#x27;t watch that. What I did: Built a reversible patch. Hands-off collection downloads, Update All, parallel downloads. Goes back? Yes. Uninstall and the original files come back exactly. Get it: github.com/LostMorality/vortex-free-collections. Warning: May be against Nexus Mods&#x27; terms. Could put your account at risk. The README says so. Don&#x27;t go bugging the Vortex people about it."></picture></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Luau">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" alt="Roblox">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
-</p>
+<a href="https://github.com/LostMorality/seanime"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/seanime-dark.svg"><img src="assets/seanime-light.svg" width="76%" alt="Loaner. seanime. Fork of an open-source media server for anime and manga. Someone else built it. Goes back? Not my call. It&#x27;s a fork. Go thank them. They earned it."></picture></a>
 
----
+<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="Owner&#x27;s manual Model: Pops. In service on GitHub since November 2024. Has a life? Yes unticked. No ticked. About this unit: Works mostly on Roblox and Discord. Everything else is random projects. When something bugs him, he builds something for it, then hands it out. Not your dad. Back that up first. Power tools: Uses AI for pretty much everything. Ticked: writing code, debugging, research, automating. Not ticked: lying about it. Now you don&#x27;t have to ask. If the code breaks, that&#x27;s still on me. Known issues: Seen as a jerk, won&#x27;t fix. Seen as an outcast, duplicate. Bedside manner, not covered. Thank yous, can&#x27;t reproduce."></picture></a>
 
-<p align="center"><i>If something here helps you out, a ⭐ is always appreciated.</i></p>
+<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rules-dark.svg"><img src="assets/rules-light.svg" width="100%" alt="Shop rules 1. Put it back where you found it. The tags say which of mine undo cleanly. 2. Want to borrow something? Check the license. Then fork it. 3. Hello is not a bug report."></picture></a>
+
+<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stock-dark.svg"><img src="assets/stock-light.svg" width="100%" alt="Stock on hand. Forks not counted. Not my stock. TypeScript 28%. Checks your work. Lua and Luau 68%. Too much time on Roblox. Go 2%. Stays out of the way. CSS 2%. Makes it look less bad."></picture></a>
+
+<a href="https://github.com/LostMorality?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/timecard-dark.svg"><img src="assets/timecard-light.svg" width="100%" alt="Time card. Name: Pops. Department: me. Contributions: 494. Overtime: all of it. Public repos: 12. Some of them loaners. Stars: 6. Wasn&#x27;t counting. Filled in daily by a machine. I don&#x27;t do paperwork. Last filled in: 2026-11-06. Bigger hole, busier day."></picture></a>
+
+<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/closer-dark.svg"><img src="assets/closer-light.svg" width="100%" alt="Closed. Knock loud. I&#x27;m in the back. On Discord: nolifepops. Bug reports go in my repos. For seanime, ask the people who built it. Tell me what broke and what you tried. Forgot to turn that off. Did you eat?"></picture></a>
+
+Discord: `nolifepops`
+
+</div>
