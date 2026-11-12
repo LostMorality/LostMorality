@@ -22,7 +22,7 @@
 
 <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stock-dark.svg"><img src="assets/stock-light.svg" width="100%" alt="Stock on hand. Forks not counted. Not my stock. TypeScript 27%. Checks your work. Lua and Luau 69%. Too much time on Roblox. Go 2%. Stays out of the way. CSS 1%. Makes it look less bad."></picture></a>
 
-<a href="https://github.com/LostMorality?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/timecard-dark.svg"><img src="assets/timecard-light.svg" width="100%" alt="Time card. Name: Pops. Department: me. Contributions: 600. Overtime: all of it. Public repos: 12. Some of them loaners. Stars: 11. Wasn&#x27;t counting. Filled in daily by a machine. I don&#x27;t do paperwork. Last filled in: 2026-11-11. Bigger hole, busier day."></picture></a>
+<a href="https://github.com/LostMorality?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/timecard-dark.svg"><img src="assets/timecard-light.svg" width="100%" alt="Time card. Name: Pops. Department: me. Contributions: 610. Overtime: all of it. Public repos: 12. Some of them loaners. Stars: 11. Wasn&#x27;t counting. Filled in daily by a machine. I don&#x27;t do paperwork. Last filled in: 2026-11-12. Bigger hole, busier day."></picture></a>
 
 <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/closer-dark.svg"><img src="assets/closer-light.svg" width="100%" alt="Closed. Knock loud. I&#x27;m in the back. On Discord: nolifepops. Bug reports go in my repos. For seanime, ask the people who built it. Tell me what broke and what you tried. Forgot to turn that off. Did you eat?"></picture></a>
 
