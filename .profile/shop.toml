@@ -3,10 +3,8 @@ page = [
   "keys-a + keys-b",
   "label-main",
   "cordmuffin",
+  "cindercord",
   "rscripts",
-  "label-rest",
-  "vortex",
-  "seanime 76%",
   "about",
   "rules",
   "stock",
@@ -138,7 +136,7 @@ style = "key"
 link = "https://discord.com/users/{discord_id}"
 small = "Discord"
 big = "{discord}"
-scrawl = "Knock first."
+scrawl = "Questions go here."
 
 [cards.keys-b]
 style = "key"
@@ -175,6 +173,25 @@ back_rows = [
 warning = "Client mods like Equicord break Discord's terms. Some plugins carry their own warning. The README says so."
 sticker_width = 730
 sticker_tilt = 0.8
+
+[cards.cindercord]
+style = "work_order"
+repo = "Cindercord"
+name_size = 60
+stamp = "Not done"
+fits = ["Fits: Discord Phoenix", "Made of: TypeScript"]
+under_fits = "Android only. Nothing to install yet."
+rows = [
+  ["Came in with", "Discord is rebuilding its app in Rust. Equicord, Vencord and every theme can't touch it."],
+  ["What I did", "Building the bridge, on top of phoenix-unlock. Equicord plugins run with little or no change. ClearURLs already runs on a real phone. A plugin drawer and a theme converter come next."],
+]
+back = "Nothing to install yet. Hit Watch and you'll know when there is."
+warning = "Client mods break Discord's terms, and Phoenix is an unreleased alpha. Use an alt account. The README says so."
+sticker_width = 590
+sticker_tilt = -0.7
+side_note = ["Done when", "it's done.", "Don't ask."]
+side_size = 31
+side_step = 29
 
 [cards.vortex]
 style = "work_order"
@@ -282,7 +299,7 @@ machine = "Filled in daily by a machine. I don't do paperwork."
 style = "closer"
 sign = "Closed"
 scrawl = ["Knock loud.", "I'm in the back."]
-note = "On Discord: {discord}. Bug reports go in my repos. For seanime, ask the people who built it."
+note = "Bugs, questions, anything: message me on Discord, {discord}. Skip the GitHub issues."
 note_bold = "Tell me what broke and what you tried."
 lit = "Forgot to turn that off."
 food = "Did you eat?"
