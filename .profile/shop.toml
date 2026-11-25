@@ -183,7 +183,7 @@ fits = ["Fits: Discord Phoenix", "Made of: TypeScript"]
 under_fits = "Android only. Nothing to install yet."
 rows = [
   ["Came in with", "Discord is rebuilding its app in Rust. Equicord, Vencord and every theme can't touch it."],
-  ["What I did", "Building the bridge, on top of phoenix-unlock. Equicord plugins run with little or no change. ClearURLs already runs on a real phone. A plugin drawer and a theme converter come next."],
+  ["What I did", "Building the bridge, on top of Sunbird, aka phoenix-unlocker. Equicord plugins run with little or no change. ClearURLs already runs on a real phone. A plugin drawer and a theme converter come next."],
 ]
 back = "Nothing to install yet. Hit Watch and you'll know when there is."
 warning = "Client mods break Discord's terms, and Phoenix is an unreleased alpha. Use an alt account. The README says so."
